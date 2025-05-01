@@ -1,0 +1,3 @@
+[submodule "roblog/themes/terminalcv"]
+	path = roblog/themes/terminalcv
+	url = https://github.com/coolapso/hugo-theme-terminalcv.git
